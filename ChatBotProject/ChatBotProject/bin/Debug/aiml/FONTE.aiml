@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0"> 
+
+<category>
+    <pattern>OI</pattern>
+    <template>
+       
+                <li>  Olá , qual profissão vc quer saber ? </li>
+               
+    </template>
+</category>
+
+
+<category>
+    <pattern>OLA</pattern>
+    <template>
+       
+                <li> Oi! É um prazer ter você aqui</li>
+		
+               
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>CONECTAR</pattern>
+    <template>
+        <random>
+                <li>Oi! É um prazer ter você aqui</li>
+                <li>Olá</li>
+                <li>E ai?</li>
+                <li>Oi! :)</li>
+            </random>
+    </template>
+</category>
+
+
+
+
+
+
+
+<category>
+    <pattern>CIENCIA DA COMPUTACAO</pattern>
+    <template>
+     
+		<li>é a ciência que estuda as técnicas, metodologias </li>
+
+               <li>                                                                                           tecnológicas, que informatizem os processos </li>
+       
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>engenharia</pattern>
+    <template>
+     
+		<li> é a aplicação do conhecimento científico, econômico,                                                                                               social e prático, com o intuito de inventar, desenhar,                                                                                                            </li>
+       
+    </template>
+</category>
+
+
+
+
+<category>
+    <pattern>professor</pattern>
+    <template>
+     
+		<li> é uma pessoa que ensina ciência, arte, técnica ou outros conhecimentos.    </li>
+       
+    </template>
+</category>
+
+
+<category>
+    <pattern>enfermagem</pattern>
+    <template>
+     
+		<li> A enfermagem é uma ciência cujo objetivo                                                                                                                é a implantação do tratamento de doenças                                   </li>
+       
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>PRA QUE VC SERVE</pattern>
+    <template>
+       eu sou um chatbot, sirvo pra responder suas perguntas
+    </template>
+</category>
+
+
+<category>
+        <pattern>O QUE VOCÊ FAZ</pattern>
+        <template>
+	Eu gosto de navegar na Internet, conhecer novos amigos e você?
+	</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aiml> 
